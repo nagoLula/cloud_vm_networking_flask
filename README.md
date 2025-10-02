@@ -2,7 +2,7 @@
 
 “AHI 504 Lab: Deploying a Flask App on a Cloud VM”
 
-#flask on Cloud VM (Assignment 2)
+-Flask on Cloud VM (Assignment 2)
 
 ## Student Info:
 
